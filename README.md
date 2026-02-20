@@ -1,6 +1,6 @@
 # Hi, I'm Deborah 👋
 ### Computer Science Student | Open Source Project Admin | Builder | Hack The Stack | Foss CLUB LBSITW |
-
+hack_the_stack_badge.jpeg
 
 
 building tech that solves real-world problems  
