@@ -3,7 +3,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/deboraht07/deboraht07/main/hack_the_stack_badge.jpeg" width="220"/>
 </p>
-### Computer Science Student | Open Source Project Admin | Builder | Hack The Stack | Foss CLUB LBSITW |
+
+
+
+# Computer Science Student | Open Source Project Admin | Builder | Hack The Stack | Foss CLUB LBSITW |
 
 
 building tech that solves real-world problems  
